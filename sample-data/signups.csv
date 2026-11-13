@@ -1,0 +1,11 @@
+participant_no,timeslot,age,device,eligible,priority_flag,channels,has_evidence,submission_timestamp
+9990,"Thu, 12 Nov, 5:00pm–6:00pm;Fri, 13 Nov, 10:00am–11:00am",25–34,Android,Yes,Not sure,"Social media, Website, Messaging app",Yes,2/11/26 08:39
+9991,"Tue, 10 Nov, 2:00pm–3:00pm;Thu, 12 Nov, 10:00am–11:00am;Thu, 12 Nov, 6:30pm–7:30pm",35–44,iOS,Yes,No,"Social media, Phone call",Yes,6/11/26 16:40
+9992,"Thu, 12 Nov, 3:30pm–4:30pm;Fri, 13 Nov, 2:00pm–3:00pm;Fri, 13 Nov, 5:00pm–6:00pm",55–64,Android,Yes,Yes,"Social media, Phone call, Email",Yes,1/11/26 14:57
+9993,"Tue, 10 Nov, 5:00pm–6:00pm;Thu, 12 Nov, 3:30pm–4:30pm;Thu, 12 Nov, 5:00pm–6:00pm;Fri, 13 Nov, 3:30pm–4:30pm",Above 65,iOS,No,Yes,"Text message, Social media, Messaging app",Yes,4/11/26 10:30
+9994,"Tue, 10 Nov, 6:30pm–7:30pm;Thu, 12 Nov, 6:30pm–7:30pm;Fri, 13 Nov, 5:00pm–6:00pm",18–24,Android,Yes,Not sure,"Social media, Website",Yes,4/11/26 11:18
+9995,"Tue, 10 Nov, 10:00am–11:00am;Fri, 13 Nov, 3:30pm–4:30pm;Fri, 13 Nov, 5:00pm–6:00pm",45–54,iOS,Yes,No,"Social media, Email, Messaging app",Yes,4/11/26 16:42
+9996,"Tue, 10 Nov, 3:30pm–4:30pm;Thu, 12 Nov, 2:00pm–3:00pm;Fri, 13 Nov, 5:00pm–6:00pm",25–34,Android,Yes,Yes,"Social media, Messaging app",No,3/11/26 15:23
+9997,"Tue, 10 Nov, 3:30pm–4:30pm;Tue, 10 Nov, 6:30pm–7:30pm",55–64,iOS,Yes,Yes,"Text message, Messaging app",Yes,2/11/26 09:39
+9998,"Tue, 10 Nov, 2:00pm–3:00pm;Fri, 13 Nov, 2:00pm–3:00pm;Fri, 13 Nov, 5:00pm–6:00pm",35–44,iOS,Yes,Not sure,Social media,No,2/11/26 17:56
+9999,"Thu, 12 Nov, 6:30pm–7:30pm;Fri, 13 Nov, 2:00pm–3:00pm",45–54,iOS,Yes,Not sure,"Website, Email",Yes,5/11/26 20:12
